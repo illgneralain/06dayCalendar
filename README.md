@@ -1,7 +1,7 @@
 # 06dayCalendar
 
-deployable link:
-github profile: 
+deployable link: https://illgneralain.github.io/06dayCalendar/ 
+github profile: https://github.com/illgneralain/06dayCalendar 
 
 # Success 
 Found success on these areas of the code: 
